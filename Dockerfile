@@ -9,6 +9,7 @@ ENV BUILD_PACKAGES \
   openssh-client \
   sshpass \
   git \
+  vim \
   python \
   py-boto \
   py-dateutil \
